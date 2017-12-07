@@ -1,0 +1,16 @@
+.idea/
+.scalacatsJS/
+.scalacatsJVM/
+core/.js/
+core/.jvm/
+core/.prj/
+core/target/
+docs/
+project/boot/
+project/plugins/project/
+project/project/
+project/target
+target/
+tests/.js/
+tests/.jvm/
+tests/.prj/
